@@ -20,3 +20,7 @@ fly deploy
 ## Cost Notes
 
 Costs are kept below $5, which should be free within Fly.io limits. Machines up to 1GB should be within free tier.
+
+## Envs
+
+Check necessary envs for this service here: https://actualbudget.org/docs/config/
